@@ -31,19 +31,19 @@ Allow this app to consume background data in app settings.
 
 ① 在设置中选择连接；
 
-<a href="https://pic4.zhimg.com/80/v2-9e1fb5079b5d5b4d569f832227da158b_hd.jpg"><img src="https://pic4.zhimg.com/80/v2-9e1fb5079b5d5b4d569f832227da158b_hd.jpg" height="48"></a>
+<a href="https://pic4.zhimg.com/80/v2-9e1fb5079b5d5b4d569f832227da158b_hd.jpg"><img src="https://pic4.zhimg.com/80/v2-9e1fb5079b5d5b4d569f832227da158b_hd.jpg" height="256"></a>
 
 ② 选择移动网络；
 
-<a href="https://pic3.zhimg.com/80/v2-aede2f270eb25ac445dd235f82ca6ba6_hd.jpg"><img src="https://pic3.zhimg.com/80/v2-aede2f270eb25ac445dd235f82ca6ba6_hd.jpg" height="48"></a>
+<a href="https://pic3.zhimg.com/80/v2-aede2f270eb25ac445dd235f82ca6ba6_hd.jpg"><img src="https://pic3.zhimg.com/80/v2-aede2f270eb25ac445dd235f82ca6ba6_hd.jpg" height="256"></a>
 
 ③ 移动网路中选择APN设置；
 
-<a href="https://pic3.zhimg.com/80/v2-e484e3f0180550e7206404e7c05adbea_hd.jpg"><img src="https://pic3.zhimg.com/80/v2-e484e3f0180550e7206404e7c05adbea_hd.jpg" height="48"></a>
+<a href="https://pic3.zhimg.com/80/v2-e484e3f0180550e7206404e7c05adbea_hd.jpg"><img src="https://pic3.zhimg.com/80/v2-e484e3f0180550e7206404e7c05adbea_hd.jpg" height="256"></a>
 
 ④ 系统默认的APN配置无法进行修改，这里选择右上角添加新的APN；
 
-<a href="https://pic1.zhimg.com/80/v2-6ec7b2f913d9d9652b651fcb9feb9d14_hd.jpg"><img src="https://pic1.zhimg.com/80/v2-6ec7b2f913d9d9652b651fcb9feb9d14_hd.jpg" height="48"></a>
+<a href="https://pic1.zhimg.com/80/v2-6ec7b2f913d9d9652b651fcb9feb9d14_hd.jpg"><img src="https://pic1.zhimg.com/80/v2-6ec7b2f913d9d9652b651fcb9feb9d14_hd.jpg" height="256"></a>
 
 ⑤ 手动设置APN，注意APN协议及APN漫游协议都只选定IPV4；
 
@@ -58,9 +58,9 @@ MCC:460（默认）
 MNC:02（默认）
 
 APN类型：default，supl，dun
-<img src="https://pic1.zhimg.com/80/v2-c1df1eb63b6ca55cabb69df9f8aead5c_hd.jpg">
+
+<a href="https://pic1.zhimg.com/80/v2-c1df1eb63b6ca55cabb69df9f8aead5c_hd.jpg"><img src="https://pic1.zhimg.com/80/v2-c1df1eb63b6ca55cabb69df9f8aead5c_hd.jpg" height="256"></a>
 
 再回到软件连接，大功告成！
-<img src="https://pic3.zhimg.com/80/v2-cc0274f831a59d18c0d0cc8395a5ca06_hd.jpg">
 
 4、与上面方法类似，步骤几乎相同；新增一个CMWAP的接入点，除了只选择IPV4，其余都默认选项。（最为有效，接近完全解决问题）
