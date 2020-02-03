@@ -12,12 +12,12 @@ Cause China Mobile have high limitaion that cannot connect to internet use norma
 ### Cannot connect to server:
 ### 无法连接到服务器：
 
-1. Exit&Restart application
-1. 退出程序，重新启用
-2. Check your WIFI/4G connection
-2. 检查WIFI或4G是否连接
-3. Contact to administrator if no. 1&2 cannot solve
-3. 通过上面两点无法解决，联系管理员
+① Exit&Restart application
+① 退出程序，重新启用
+② Check your WIFI/4G connection
+② 检查WIFI或4G是否连接
+③ Contact to administrator if no. 1&2 cannot solve
+③ 通过上面两点无法解决，联系管理员
 
 ### 移动4G无法连接SSR解决方案汇总--以SAMSUNG S7edge为例:
 自国庆以来，ping不上服务器的情况经常出现，等逐渐恢复后发现移动4G无法连接，pc端、手机端在有线网络及WiFi下运行正常；以下为我从Github issues、不同forums汇总的一般解决方案。
