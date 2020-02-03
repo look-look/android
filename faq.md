@@ -1,15 +1,15 @@
-### Troubleshooting
-### 常问问题
+## Troubleshooting
+## 常问问题
 
-## v2ray Server:
-## v2ray服务器：
+### v2ray Server:
+### v2ray服务器：
 Cause China Mobile have high limitaion that cannot connect to internet use normal server. So we add v2ray server solve this issue.
 由于中国移动限制比较严格，导致普通方式无法上网，为此专门增加了v2ray服务器解决这个问题。
 (Note: install v2ray plugin before use v2ray server. Please download from this URL: https://github.com/look-look/android-plugin/releases/download/1.0.0.0/v2ray-universal-release.apk)
 （使用v2ray服务器必须安装v2ray插件，请通过些链接下载：https://github.com/look-look/android-plugin/releases/download/1.0.0.0/v2ray-universal-release.apk）
 
-## Cannot connect to server:
-## 无法连接到服务器：
+### Cannot connect to server:
+### 无法连接到服务器：
 
 1. Exit&Restart application
 1. 退出程序，重新启用
@@ -18,7 +18,7 @@ Cause China Mobile have high limitaion that cannot connect to internet use norma
 3. Contact to administrator if no. 1&2 cannot solve
 3. 通过上面两点无法解决，联系管理员
 
-## 移动4G无法连接SSR解决方案汇总--以SAMSUNG S7edge为例:
+### 移动4G无法连接SSR解决方案汇总--以SAMSUNG S7edge为例:
 自国庆以来，ping不上服务器的情况经常出现，等逐渐恢复后发现移动4G无法连接，pc端、手机端在有线网络及WiFi下运行正常；以下为我从Github issues、不同forums汇总的一般解决方案。
 
 在确保pin得通的情况下（服务器响应速度检测），可尝试以下方式解决：
@@ -46,9 +46,13 @@ Cause China Mobile have high limitaion that cannot connect to internet use norma
 
 其中需要手动配置的参数：
 Name：CMNET
+
 APN：cmnet
+
 MCC:460（默认）
+
 MNC:02（默认）
+
 APN类型：default，supl，dun
 
 <a href="https://pic1.zhimg.com/80/v2-c1df1eb63b6ca55cabb69df9f8aead5c_hd.jpg"><img src="https://pic1.zhimg.com/80/v2-c1df1eb63b6ca55cabb69df9f8aead5c_hd.jpg" height="256"></a>
