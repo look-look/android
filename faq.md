@@ -4,7 +4,9 @@
 ### v2ray Server:
 ### v2ray服务器：
 Cause China Mobile have high limitaion that cannot connect to internet use normal server. So we add v2ray server solve this issue.
+
 由于中国移动限制比较严格，导致普通方式无法上网，为此专门增加了v2ray服务器解决这个问题。
+
 (Note: install v2ray plugin before use v2ray server. Please download from this URL: https://github.com/look-look/android-plugin/releases/download/1.0.0.0/v2ray-universal-release.apk)
 
 （使用v2ray服务器必须安装v2ray插件，请通过些链接下载：https://github.com/look-look/android-plugin/releases/download/1.0.0.0/v2ray-universal-release.apk）
